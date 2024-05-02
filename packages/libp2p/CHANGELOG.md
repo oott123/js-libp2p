@@ -110,6 +110,13 @@
     * @libp2p/tcp bumped from ^9.0.14 to ^9.0.15
     * @libp2p/websockets bumped from ^8.0.14 to ^8.0.15
 
+## [1.5.2](https://github.com/libp2p/js-libp2p/compare/libp2p-v1.5.1...libp2p-v1.5.2) (2024-05-02)
+
+
+### Bug Fixes
+
+* add randomwalk to components ([#2518](https://github.com/libp2p/js-libp2p/issues/2518)) ([a11e135](https://github.com/libp2p/js-libp2p/commit/a11e135c221543b20fe746ab8ae85d54316ffe97))
+
 ## [1.5.1](https://github.com/libp2p/js-libp2p/compare/libp2p-v1.5.0...libp2p-v1.5.1) (2024-05-01)
 
 
